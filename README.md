@@ -1,4 +1,4 @@
-# Bank-marketing-dataset-project
+## Bank-marketing-dataset-project
 
 Our Data Set Contains Information Of 41188 People Out Of Which Only 4640 Have Subscribed To The Offer given by the bank Which Is Around ONLY 10 % </br>
 So, we should be able to predict which class of people is accepting the offer given by the bank and which class does not.</br>
